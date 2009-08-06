@@ -1,0 +1,65 @@
+body{font:13px/1.5 Helvetica,Arial,'Liberation Sans',FreeSans,sans-serif;}
+a:focus{outline:1px dotted invert;}
+hr{border-color:#ccc;border-style:solid;border-width:1px 0 0;clear:both;height:0;}
+/* =Headings
+--------------------------------------------------------------------------------*/
+h1{font-size:35px;}
+h2{font-size:30px;}
+h3{font-size:23px;}
+h4{font-size:22px;}
+h5{font-size:19px;}
+h6{font-size:17px;}
+/* =Spacing
+--------------------------------------------------------------------------------*/
+ol{list-style:decimal;}
+ul{list-style:square;}
+li{margin-left:30px;}
+.aka li{font-size:150%;}
+p,
+dl,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+ul,
+pre,
+table,
+address,
+fieldset{margin-bottom:20px;}
+p{font-size:150%;}
+
+h1,h2,h3,h4,h5,h6{line-height:1.2em;margin-bottom:.3em;}
+h2{margin-top:1em;}
+h5{font-size:1.2em;}
+h6{font-size:1em;text-transform:uppercase;}
+h1 a{font-weight:normal;}
+
+.box{background:#9DE0AD;margin-bottom:20px;padding:10px 10px 1px 10px;}
+.box h2,.box h3,.box h3 a{/*font-size:1em;font-weight:normal;text-transform:uppercase;*/
+color:#E5FCC2;background:#547980 ;margin:-10px -10px 0 -10px;padding:6px 12px;text-decoration: none;}
+.box h3 a:hover{background:#eee;color:#333;}
+.box h2 a,
+.box h2 a.visible{color:#E5FCC2;background:#547980  url("../img/switch_minus.gif") 96% 50% no-repeat;display:block;padding:6px 12px;margin:-6px -12px;border:none;}
+.box h2 a.hidden,
+.box h2 a.hidden:hover{background-image:url("../img/switch_plus.gif");}
+.box h2 a:hover{background-color:#111;}
+.block{padding-top:10px;}
+
+
+/* paragraphs,quotes and lists
+----------------------------------------------- */
+p{margin-bottom:1em;}
+blockquote{font-family:Georgia,'Times New Roman',serif;font-size:1.2em;padding-left:1em;border-left:4px solid #ccc;}
+blockquote cite{font-size:.9em;}
+ul,ol{padding-top:0;}
+/* menus
+----------------------------------------------- */
+ul.menu{list-style:none;border-top:1px solid #bbb;}
+ul.menu li{margin:0;}
+ul.menu li a{display:block;padding:4px 10px;border-bottom:1px solid #bbb;}
+ul.menu li a:hover{background:#eee;}
+ul.menu li a:active{background:#ccc;}

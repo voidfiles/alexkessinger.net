@@ -1,0 +1,7 @@
+---
+layout: post
+title: Testing
+summary: the beggingin
+---
+
+testing
