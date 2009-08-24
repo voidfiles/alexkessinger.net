@@ -1,0 +1,7 @@
+---
+layout: post
+title: First post
+summary: I have created a lifestream blog at http://blog.alexkessinger.net . I am working on a [timeline](/timeline.html "Alex's Timeline") of my computing history as well.
+---
+
+I have created a lifestream blog at http://blog.alexkessinger.net . I am working on a [timeline](/timeline.html "Alex's Timeline") of my computing history as well. 
